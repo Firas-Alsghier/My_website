@@ -1,0 +1,22 @@
+{
+	"name": "portfolio-template",
+	"version": "1.0.0",
+	"description": "TITLE:\r Personal Portfolio Template built by Gulam Anas https://twitter.com/_gulam_anas_",
+	"scripts": {
+		"build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gulamanas/Portfolio-template.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gulamanas/Portfolio-template/issues"
+	},
+	"homepage": "https://github.com/gulamanas/Portfolio-template#readme",
+	"devDependencies": {
+		"parcel": "^2.6.0"
+	}
+}
