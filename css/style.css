@@ -543,11 +543,19 @@ h3 {
 	background-size: cover;
 }
 .work_container:nth-child(3) {
-	background: url(../assets/coming-soon.webp);
+	background: url(../assets/projects/project-3.jpg);
 	background-size: cover;
 }
 .work_container:nth-child(4) {
-	background: url(../assets/coming-soon.webp);
+	background: url(../assets/projects/project-4.jpg);
+	background-size: cover;
+}
+.work_container:nth-child(5) {
+	background: url(../assets/projects/project-5.jpg);
+	background-size: cover;
+}
+.work_container:nth-child(6) {
+	background: url(../assets/projects/project-6.jpg);
 	background-size: cover;
 }
 .work_container p:nth-child(1) {
