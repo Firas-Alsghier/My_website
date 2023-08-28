@@ -1,4 +1,4 @@
-4296
+4316
 76C:\My_website\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133376798742175684 0
 58C:\My_website\node_modules\caniuse-lite\data\regions\KZ.js133376798810358157 0
 43C:\My_website\node_modules\type-fest\source133376798697292664 1
@@ -49,7 +49,7 @@
 101C:\My_website\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\main.js133376798703129309 0
 51C:\My_website\node_modules\abortcontroller-polyfill133376798662637987 1
 76C:\My_website\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133376798660968945 0
-18C:\My_website\dist133376822511230526 1
+18C:\My_website\dist133376877034673845 1
 62C:\My_website\node_modules\type-fest\source\readonly-deep.d.ts133376798680971245 0
 47C:\My_website\node_modules\weak-lru-cache\tests133376798646232156 1
 69C:\My_website\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js133376798728678862 0
@@ -63,7 +63,7 @@
 43C:\My_website\node_modules\msgpackr\LICENSE133376798631380707 0
 58C:\My_website\node_modules\caniuse-lite\data\regions\TL.js133376798824460529 0
 61C:\My_website\node_modules\type-fest\source\partial-deep.d.ts133376798677535915 0
-24C:\My_website\index.html133376822408781689 0
+24C:\My_website\index.html133376875577131012 0
 79C:\My_website\node_modules\react-refresh\cjs\react-refresh-babel.development.js133376798639855819 0
 26C:\My_website\node_modules133376800304109327 1
 53C:\My_website\node_modules\mdn-data\css\at-rules.json133376798648662528 0
@@ -353,6 +353,7 @@
 52C:\My_website\node_modules\utility-types\SECURITY.md133376798662418111 0
 73C:\My_website\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133376798661408690 0
 40C:\My_website\node_modules\node-releases133376798646272144 1
+37C:\My_website\dist\index.d6941495.css133376877034453967 0
 42C:\My_website\node_modules\xxhash-wasm\cjs133376798645782427 1
 51C:\My_website\node_modules\@swc\helpers\lib\_get.js133376798697382596 0
 70C:\My_website\node_modules\entities\lib\generated\decode-data-xml.d.ts133376798674187219 0
@@ -2141,6 +2142,7 @@
 63C:\My_website\node_modules\@parcel\core\test\AssetGraph.test.js133376798676756350 0
 49C:\My_website\node_modules\entities\lib\decode.js133376798648693335 0
 59C:\My_website\node_modules\entities\lib\decode_codepoint.js133376798635739048 0
+37C:\My_website\dist\excel.834fdc8a.png133376877028316812 0
 44C:\My_website\node_modules\caniuse-lite\dist133376798823158842 1
 69C:\My_website\node_modules\.bin\node-gyp-build-optional-packages-test133376800287902022 0
 70C:\My_website\node_modules\caniuse-lite\data\features\sharedworkers.js133376798822602504 0
@@ -2973,6 +2975,7 @@
 67C:\My_website\node_modules\caniuse-lite\data\features\css-sticky.js133376798770103707 0
 60C:\My_website\node_modules\@parcel\optimizer-image\native.js133376798648502665 0
 59C:\My_website\node_modules\@parcel\resolver-default\LICENSE133376798631640548 0
+39C:\My_website\dist\chatgpt.5e5ffcad.png133376877028336800 0
 66C:\My_website\node_modules\caniuse-lite\data\features\css-table.js133376798770443528 0
 72C:\My_website\node_modules\caniuse-lite\data\features\css-text-indent.js133376798770493481 0
 77C:\My_website\node_modules\caniuse-lite\data\features\css-text-orientation.js133376798770563433 0
@@ -3206,6 +3209,7 @@
 78C:\My_website\node_modules\@babel\highlight\node_modules\has-flag\package.json133376798631880410 0
 61C:\My_website\node_modules\caniuse-lite\data\features\ruby.js133376798821435436 0
 63C:\My_website\node_modules\caniuse-lite\data\features\run-in.js133376798821455764 0
+43C:\My_website\assets\projects\project-7.png133376865166380973 0
 83C:\My_website\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133376798821531371 0
 75C:\My_website\node_modules\caniuse-lite\data\features\screen-orientation.js133376798821824679 0
 69C:\My_website\node_modules\caniuse-lite\data\features\script-async.js133376798821850878 0
@@ -3443,6 +3447,7 @@
 56C:\My_website\node_modules\@swc\helpers\lib\_to_array.js133376798738827017 0
 59C:\My_website\node_modules\@swc\helpers\lib\_ts_metadata.js133376798740597876 0
 73C:\My_website\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133376798650093036 0
+36C:\My_website\dist\word.d3f02431.png133376877028326811 0
 56C:\My_website\node_modules\@lezer\lr\dist\constants.d.ts133376798655835204 0
 56C:\My_website\node_modules\@swc\helpers\lib\_ts_param.js133376798740657884 0
 78C:\My_website\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133376798968064774 0
@@ -3566,6 +3571,7 @@
 55C:\My_website\node_modules\@parcel\packager-svg\LICENSE133376798631640548 0
 63C:\My_website\node_modules\@parcel\watcher\prebuilds\darwin-x64133376798697182738 1
 62C:\My_website\node_modules\@parcel\watcher\prebuilds\linux-x64133376798716295918 1
+41C:\My_website\dist\firebasea.0c4a8406.png133376877028326811 0
 62C:\My_website\node_modules\@parcel\watcher\prebuilds\win32-x64133376798702949409 1
 61C:\My_website\node_modules\@parcel\core\src\resolveOptions.js133376798755302084 0
 83C:\My_website\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.glibc.node133376798702299786 0
@@ -3791,7 +3797,7 @@
 67C:\My_website\node_modules\@parcel\core\test\PackagerRunner.test.js133376798750085044 0
 55C:\My_website\node_modules\@parcel\resolver-default\src133376798639286158 1
 78C:\My_website\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133376798640355550 0
-29C:\My_website\assets\projects133376793321417506 1
+29C:\My_website\assets\projects133376874935345227 1
 58C:\My_website\node_modules\@parcel\reporter-dev-server\lib133376798674057273 1
 67C:\My_website\node_modules\@parcel\reporter-dev-server\package.json133376798673847397 0
 68C:\My_website\node_modules\@parcel\reporter-dev-server\src\Server.js133376798648472639 0
@@ -4217,6 +4223,7 @@
 48C:\My_website\node_modules\.bin\browserslist.ps1133376800287882044 0
 43C:\My_website\node_modules\.bin\detect-libc133376800287882044 0
 47C:\My_website\node_modules\.bin\detect-libc.cmd133376800287882044 0
+41C:\My_website\assets\tech-assets\word.png133376853926850063 0
 37C:\My_website\node_modules\.bin\json5133376800287892026 0
 41C:\My_website\node_modules\.bin\json5.cmd133376800287892026 0
 41C:\My_website\node_modules\.bin\json5.ps1133376800287892026 0
@@ -4256,42 +4263,55 @@
 41C:\My_website\dist\index.bd3a141a.css.map133376800775400077 0
 37C:\My_website\dist\index.c9bf6ee5.css133376820913798246 0
 41C:\My_website\dist\index.c9bf6ee5.css.map133376820913958144 0
+41C:\My_website\dist\index.d6941495.css.map133376877034503936 0
 41C:\My_website\dist\index.e350f157.css.map133376800775220195 0
-29C:\My_website\dist\index.html133376822510182936 0
+29C:\My_website\dist\index.html133376877034463966 0
 36C:\My_website\dist\jest.a3649fa2.svg133376800774920347 0
 34C:\My_website\dist\js.cabbb27f.png133376800762914709 0
 38C:\My_website\dist\parcel.671acb6f.png133376800762924691 0
 41C:\My_website\dist\photoshop.519300dd.png133376800762924691 0
+37C:\My_website\dist\point.c10063dc.png133376877028326811 0
 44C:\My_website\dist\portfolio-bg.9068e34b.png133376800762924691 0
 41C:\My_website\dist\project-1.d69de0ab.png133376800762924691 0
 41C:\My_website\dist\project-3.956af344.jpg133376800762924691 0
 41C:\My_website\dist\project-6.58161104.jpg133376800763014638 0
+41C:\My_website\dist\project-7.ccd21fef.png133376877028336800 0
+41C:\My_website\dist\project-8.e5e99881.png133376877028336800 0
 35C:\My_website\dist\pug.5686d24c.svg133376800774920347 0
 40C:\My_website\dist\tailwind.0f8b3b24.svg133376800774920347 0
 43C:\My_website\dist\Tic-Tac-Toe.d00e3d59.jpg133376800762924691 0
+42C:\My_website\dist\Typescript.3f240efe.svg133376877034443939 0
+36C:\My_website\dist\vite.a1a0ab6b.png133376877028316812 0
 25C:\My_website\css\aos.css133376793321697353 0
 41C:\My_website\css\fontawesome-all.min.css133376793321707317 0
-27C:\My_website\css\style.css133376822337379567 0
+27C:\My_website\css\style.css133376875156973106 0
 72C:\My_website\assets\301175479_2054560828049819_695710371999569844_n.jpg133376793321200118 0
 37C:\My_website\assets\coming-soon.webp133376793321209943 0
 32C:\My_website\assets\favicon.png133376793321219937 0
 38C:\My_website\assets\logo-template.png133376793321247337 0
 32C:\My_website\assets\profile.jpg133376793321297381 0
 32C:\My_website\assets\project.png133376793321317361 0
-32C:\My_website\assets\tech-assets133376793321677364 1
+32C:\My_website\assets\tech-assets133376860508900451 1
+44C:\My_website\assets\tech-assets\chatgpt.jpg133376858869326398 0
+44C:\My_website\assets\tech-assets\chatgpt.png133376859592717517 0
 40C:\My_website\assets\tech-assets\css.png133376793321497416 0
+42C:\My_website\assets\tech-assets\excel.png133376853699838771 0
+46C:\My_website\assets\tech-assets\firebasea.png133376860513997520 0
 40C:\My_website\assets\tech-assets\git.png133376793321517414 0
 43C:\My_website\assets\tech-assets\github.png133376793321527412 0
 41C:\My_website\assets\tech-assets\jest.svg133376793321557394 0
 39C:\My_website\assets\tech-assets\js.png133376793321567392 0
 43C:\My_website\assets\tech-assets\parcel.png133376793321607356 0
 46C:\My_website\assets\tech-assets\photoshop.png133376793321617360 0
+42C:\My_website\assets\tech-assets\point.png133376856295302661 0
 42C:\My_website\assets\tech-assets\react.png133376793321647346 0
 42C:\My_website\assets\tech-assets\redux.png133376793321647346 0
 41C:\My_website\assets\tech-assets\sass.png133376793321657370 0
 45C:\My_website\assets\tech-assets\tailwind.svg133376793321667337 0
+41C:\My_website\assets\tech-assets\vite.png133376851726707993 0
 40C:\My_website\assets\tech-assets\Vue.png133376793321457446 0
 43C:\My_website\assets\projects\project-1.png133376793321357342 0
 43C:\My_website\assets\projects\project-4.jpg133376793321387454 0
+43C:\My_website\assets\projects\project-8.png133376874937523968 0
 35C:\My_website\assets\projects\t.jpg133376793321417506 0
 45C:\My_website\assets\projects\Tic-Tac-Toe.jpg133376793321327378 0
